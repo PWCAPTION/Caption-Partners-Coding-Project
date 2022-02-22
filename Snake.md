@@ -21,7 +21,7 @@ Please include the following features in your snake game:
 - The game should have 3 difficulties which indicate the rate at which the timed interval executes, Easy, Medium, Hard
 - Persist the high score
 - The game should have an API that supports the following features
-- - change direction the snake is moving
+- + change direction the snake is moving
 - - start the game
 - - pause the game
 - - restart the game
