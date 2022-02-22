@@ -1,6 +1,6 @@
 # Takehome Challenge
 
-Below you will find two options for applications that we would like to see you build. For these exercises we aim to see how you build applications. This aims not only to measure capability but how you choose to solve the challenge. We hope to get to know you a bit better by looking at your solution.
+Below you will find two options for applications that we would like to see you build. For these exercises we aim to see how you build software, measure capability and understand how you choose to solve the challenge. We hope to get to know you a bit better by looking at your solution.
 
 Ideally you will spend no more than 5 hours on this, but if you feel you'd like to do more you are welcome to do so, we will however appreciate knowing if you choose to go over time.
 
