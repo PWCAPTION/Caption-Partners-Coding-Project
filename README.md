@@ -10,7 +10,7 @@ Ideally you will spend no more than 5 hours on this, but if you feel you'd like 
 - Is your code DRY
 - Are your abstractions sensible
 - Is the code performant
-- Is your reliable
+- Is your code reliable
 
 ## General Acceptance Criteria
 
