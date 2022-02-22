@@ -3,11 +3,10 @@
 Build your own "Snake" game. Ex: https://playsnake.org/
 Please take a look at this link if you are unfamiliar with how the game works.
 
-Please include the following features in your snake game:
+Please include the following features / constraints in your snake game:
 
 - App has a gameboard, represented as an NxN matrix of "cells", always use an odd number for N so we can start the snake in the center of the board
 - App gameboard has 3 sizes, small, medium, large which dictates the value N for the NxN gameboard
-- Snake starts in
 - When the game starts the snake begins moving
 - Default direction of movement is North
 - The game should use a timed interval to dictate the rate at which the snake moves across the board
