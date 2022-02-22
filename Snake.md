@@ -1,6 +1,6 @@
 # Snake Game
 
-Build your own "Snake" game. Ex: https://playsnake.org/
+Build your own "Snake" game (engine/API... UI not required, but a welcome bonus!). Ex: https://playsnake.org/
 Please take a look at this link if you are unfamiliar with how the game works.
 
 Please include the following features / constraints in your snake game:
