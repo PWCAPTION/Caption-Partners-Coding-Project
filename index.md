@@ -18,6 +18,6 @@ Ideally you will spend no more than 5 hours on this, but if you feel you'd like 
 - The bulk of features work as expected
 - In a file named "Notes" candidate will write a small summary explaining any gaps or omissions / areas for improvement in their app they feel needs explanation. Feel free to add anything in here you think we may be interested in.
 
-## Option 1 - [Chat API](./Chat.md)
+## Option 1 - [Chat API](./chat.md)
 
-## Option 2 - [Snake Game](./Snake.md)
+## Option 2 - [Snake Game](./snake.md)
