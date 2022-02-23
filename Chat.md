@@ -19,6 +19,7 @@ Please include the following features in your chat app:
 - Above list of conversations can accept parameters which allow for filtering conversations by user and/or range of time (will omit messages/conversations outside this range)
 - API supports sending/receiving messages
 - API supports searching conversations for a particular string
+- If you have any gaps, omissions, areas needing improvement or otherwise interesting & relevant thoughts please document them in a file named "Notes"
 
 Please consider the following components of a chat app to be extras:
 

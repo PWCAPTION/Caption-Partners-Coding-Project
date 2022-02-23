@@ -15,8 +15,8 @@ Ideally you will spend no more than 5 hours on this, but if you feel you'd like 
 ## General Acceptance Criteria
 
 - Have fun!
-- The bulk of features work as expected, anything omitted should be documented so we understand why
-- Candidate will write a small summary explaining any gaps or omissions / areas for improvement in their app they feel needs explanation. Feel free to add anything in here you think we may be interested in.
+- The bulk of features work as expected
+- In a file named "Notes" candidate will write a small summary explaining any gaps or omissions / areas for improvement in their app they feel needs explanation. Feel free to add anything in here you think we may be interested in.
 
 ## Option 1 - [Chat API](./Chat.md)
 
