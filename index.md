@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Takehome Challenge
 
-You can use the [editor on GitHub](https://github.com/PWCAPTION/take-home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Below you will find two options for applications that we would like to see you build. For these exercises we aim to see how you build software, measure capability and understand how you choose to solve the challenge. We hope to get to know you a bit better by looking at your solution.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ideally you will spend no more than 5 hours on this, but if you feel you'd like to do more you are welcome to do so, we will however appreciate knowing if you choose to go over time.
 
-### Markdown
+## Things to keep in mind
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Is your code legible and to the point
+- Is your code DRY
+- Are your abstractions sensible
+- Is the code performant
+- Is your code reliable
 
-```markdown
-Syntax highlighted code block
+## General Acceptance Criteria
 
-# Header 1
-## Header 2
-### Header 3
+- Have fun!
+- The bulk of features work as expected
+- In a file named "Notes" candidate will write a small summary explaining any gaps or omissions / areas for improvement in their app they feel needs explanation. Feel free to add anything in here you think we may be interested in.
 
-- Bulleted
-- List
+## Option 1 - [Chat API](./Chat.md)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PWCAPTION/take-home/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Option 2 - [Snake Game](./Snake.md)
