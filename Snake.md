@@ -1,9 +1,16 @@
 # Snake Game
 
-Build your own "Snake" game (engine/API... UI not required, but a welcome bonus!). Ex: https://playsnake.org/
-Please take a look at this link if you are unfamiliar with how the game works.
+Build your own "Snake" game engine/API...
 
-Please include the following features / constraints in your snake game:
+Please take a look at this link if you are unfamiliar with how the game works. Ex: https://playsnake.org/
+
+## Import Notes before getting started
+
+- GUI is entirely optional
+- Please do not use third party libraries without asking for approval. We want to see what fundamental tools and opinions you use to shape this project.
+- API/Engine must be stand alone and clearly abstracted away from any client logic - Please do not combine this code with GUI logic, if you wish to include a GUI you may but do so such that it clearly lives in a separate layer
+
+## Please include the following features / constraints in your snake game:
 
 - App has a gameboard, represented as an NxN matrix of "cells", always use an odd number for N so we can start the snake in the center of the board
 - App gameboard has 3 sizes, small, medium, large which dictates the value N for the NxN gameboard
@@ -20,7 +27,7 @@ Please include the following features / constraints in your snake game:
 - The game should have 3 difficulties which indicate the rate at which the timed interval executes, Easy, Medium, Hard
 - Persist the high score
 - The game should have an API that supports the following features
-- + change direction the snake is moving
+- - change direction the snake is moving
 - - start the game
 - - pause the game
 - - restart the game

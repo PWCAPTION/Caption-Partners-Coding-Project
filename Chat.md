@@ -2,6 +2,10 @@
 
 Build an API for a simple chat application. At a minimum we would expect support for some REST but added support for real time data is a big plus.
 
+## Import Notes before getting started
+
+- You may use third party libraries but please refrain from using highly opinionated frameworks e.g. Django, NextJS
+
 Please include the following features in your chat app:
 
 - App has users
