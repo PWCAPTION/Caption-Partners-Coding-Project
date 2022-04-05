@@ -1,6 +1,6 @@
 # Chat API
 
-Build an API for a simple chat application. At a minimum we would expect support for some REST but added support for real time data is a big plus.
+Build an API (No client app / UI) for a simple chat application. At a minimum we would expect support for some REST but added support for real time data is a big plus.
 
 ## Import Notes before getting started
 
